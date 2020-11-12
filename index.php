@@ -5,7 +5,7 @@ Plugin URI: https://mediahack.co.za/newsdesk-manager
 Description: Tools for managing a publishing system
 Author: Alastair Otter
 Author URI: https://mediahack.co.za
-Version: 0.1.1
+Version: 0.1.1 
 */
 
 function newsdesk_admin_style() {
